@@ -44,3 +44,12 @@ const calculateInsulinOptimizationAlgorithm = async (userId, options = {}) => {
   );
 
   // Update insulin delivery settings
+  await updateInsulinDeliverySettings(userId, {
+    ...settings,
+    insulinDose: insulinOptimizationAlgorithm.recommendedInsulinDose,
+  });
+
+  return insulinOptimizationAlgorithm;
+};
+
+export { calculateInsulinOptimizationAlgorithm, BG_TARGET_RANGE, INSULIN_SENSITIVITY, INSULIN_MAX_DOSE, INSULIN_MIN_DOSE, INSULIN_DELAY };
