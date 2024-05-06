@@ -35,4 +35,4 @@ This document provides troubleshooting tips for common issues that may arise whe
 
 ## Contact Support
 
-If you are unable to resolve the issue using the troubleshooting tips provided, please contact the Artificial Pancreas support team for further assistance.Sources:
+If you are unable to resolve the issue using the troubleshooting tips provided, please contact the Artificial Pancreas support team for further assistance. 
