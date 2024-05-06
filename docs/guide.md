@@ -24,7 +24,7 @@ For detailed instructions, see the [Setup Guide](setup.md).
 
 For more information and resources, see the following:
 
-- [FAQ](faq.md)
+- [FAQ](docs/faq.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Advanced Features](docs/advanced.md)
 
