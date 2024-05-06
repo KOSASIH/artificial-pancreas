@@ -1,0 +1,50 @@
+/* Global styles */
+body {font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.glucose-chart {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.insulin-calculator {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+/* Material-UI theme overrides */
+.MuiButton {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.MuiButton:hover {
+  background-color: #444;
+}
