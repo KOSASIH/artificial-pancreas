@@ -1,7 +1,12 @@
 # artificial-pancreas
-An open-source software platform for managing diabetes using a closed-loop insulin delivery system. The platform uses machine learning algorithms and continuous glucose monitoring to automatically adjust insulin dosing, improving glycemic control and reducing the risk of hypoglycemia. 
 
-# Artificial Pancreas
+An open-source software platform for managing diabetes using a closed-loop insulin delivery system. The platform uses machine learning algorithms and continuous glucose monitoring to automatically adjust insulin dosing, improving glycemic control and reducing the risk of hypoglycemia. The platform is designed to be modular and customizable, allowing users to tailor the system to their individual needs and preferences. The project aims to improve the quality of life for individuals with diabetes by providing a more effective and convenient way to manage their condition.
+
+The artificial-pancreas Git repo contains the source code for the platform, as well as documentation and resources for developers, researchers, and users. The project is actively maintained and developed by a community of contributors, and welcomes new contributions and collaborations.
+
+
+# Introduction 
+
 The Artificial Pancreas project is a cutting-edge system that aims to revolutionize the way we manage diabetes. This project includes the development of an index.js and styles.css for the system.
 
 # Features
