@@ -26,7 +26,7 @@ For more information and resources, see the following:
 
 - [FAQ](faq.md)
 - [Troubleshooting](docs/troubleshooting.md)
-- [Advanced Features](advanced.md)
+- [Advanced Features](docs/advanced.md)
 
 ## Images
 
