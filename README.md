@@ -27,9 +27,9 @@ The Artificial Pancreas system is designed to be a fully functional, advanced hi
 
 To get started with the Artificial Pancreas system, follow these steps:
 
-1. Clone the repository: git clone `https://github.com/KOSASIH/artificial-pancreas.git`
-2. Install the dependencies: `npm install`
-3. Start the system: `npm start`
+1. Clone the repository: git clone `1. https://github.com/KOSASIH/artificial-pancreas.git`
+2. Install the dependencies: `1. npm install`
+3. Start the system: `1. npm start`
 
 # Documentation
 
